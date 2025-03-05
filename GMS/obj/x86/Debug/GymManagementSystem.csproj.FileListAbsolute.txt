@@ -1,0 +1,244 @@
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\Gym.mdf
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\Gym_log.ldf
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.DeleteMembers.resources
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Equipment.resources
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form1.resources
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Home.resources
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewMember.resources
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewStaff.resources
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Register.resources
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.SearchMembers.resources
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ViewEquipment.resources
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+c:\users\n\documents\visual studio 2010\Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\bin\Debug\Gym.mdf
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\bin\Debug\Gym_log.ldf
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.DeleteMembers.resources
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Equipment.resources
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form1.resources
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Home.resources
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewMember.resources
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewStaff.resources
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Register.resources
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.SearchMembers.resources
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ViewEquipment.resources
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+F:\Sem.4\C# Projects\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\bin\Debug\Gym.mdf
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\bin\Debug\Gym_log.ldf
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.DeleteMembers.resources
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Equipment.resources
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form1.resources
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Home.resources
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewMember.resources
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewStaff.resources
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Register.resources
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.SearchMembers.resources
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ViewEquipment.resources
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+F:\Sem.4\C# Projects\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\bin\Debug\Gym.mdf
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\bin\Debug\Gym_log.ldf
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.DeleteMembers.resources
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Equipment.resources
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form1.resources
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Home.resources
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewMember.resources
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewStaff.resources
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Register.resources
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.SearchMembers.resources
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ViewEquipment.resources
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+\\Mac\Home\Downloads\Gym Management System_C#\GymManagementSystem in C#\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\bin\Debug\Gym.mdf
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\bin\Debug\Gym_log.ldf
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.DeleteMembers.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Equipment.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Form1.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Home.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewMember.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewStaff.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Register.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.SearchMembers.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ViewEquipment.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.manifest
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.application
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe.manifest
+C:\Users\Punj Prakash\Documents\GymManagementSystem\GymManagementSystem\obj\x86\Debug\GymManagementSystem.application
+C:\Users\Punj Prakash\Documents\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+C:\Users\Punj Prakash\Documents\GymManagementSystem\bin\Debug\Gym.mdf
+C:\Users\Punj Prakash\Documents\GymManagementSystem\bin\Debug\Gym_log.ldf
+C:\Users\Punj Prakash\Documents\GymManagementSystem\bin\Debug\GymManagementSystem.exe.manifest
+C:\Users\Punj Prakash\Documents\GymManagementSystem\bin\Debug\GymManagementSystem.application
+C:\Users\Punj Prakash\Documents\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Punj Prakash\Documents\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.DeleteMembers.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Equipment.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Home.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewMember.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewStaff.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Register.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.SearchMembers.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ViewEquipment.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe.manifest
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.application
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Login.resources
+C:\Users\Punj Prakash\Documents\GymManagementSystem\obj\x86\Debug\GymManagementSystem.AboutBox.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\bin\Debug\Gym.mdf
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\bin\Debug\Gym_log.ldf
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\bin\Debug\GymManagementSystem.exe.manifest
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\bin\Debug\GymManagementSystem.application
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.AboutBox.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.DeleteMembers.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Equipment.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Login.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Home.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewMember.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewStaff.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Register.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.SearchMembers.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ViewEquipment.resources
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe.manifest
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.application
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+C:\Users\Punj Prakash\Documents\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+D:\Studies\406Project\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.pdb
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csprojResolveAssemblyReference.cache
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.AboutBox.resources
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.DeleteMembers.resources
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Equipment.resources
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Login.resources
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Home.resources
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewMember.resources
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.NewStaff.resources
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.Register.resources
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.SearchMembers.resources
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.ViewEquipment.resources
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+D:\Studies\406Project\GymManagementSystem\bin\Debug\Gym.mdf
+D:\Studies\406Project\GymManagementSystem\bin\Debug\Gym_log.ldf
+D:\Studies\406Project\GymManagementSystem\bin\Debug\GymManagementSystem.exe.manifest
+D:\Studies\406Project\GymManagementSystem\bin\Debug\GymManagementSystem.application
+D:\Studies\406Project\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+D:\Studies\406Project\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.exe.manifest
+D:\Studies\406Project\GymManagementSystem\obj\x86\Debug\GymManagementSystem.application
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\bin\Debug\Gym.mdf
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\bin\Debug\Gym_log.ldf
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.exe.manifest
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.application
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.exe
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.pdb
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.AboutBox.resources
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.DeleteMembers.resources
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Equipment.resources
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Login.resources
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Home.resources
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.NewMember.resources
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.NewStaff.resources
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Register.resources
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.SearchMembers.resources
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.ViewEquipment.resources
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.exe.manifest
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.application
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.exe
+C:\Users\Punj\Documents\NET Projects\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.pdb
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\Gym.mdf
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\Gym_log.ldf
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.exe.config
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.exe.manifest
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.application
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.exe
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.pdb
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.AboutBox.resources
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.DeleteMembers.resources
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Equipment.resources
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Login.resources
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Home.resources
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.NewMember.resources
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.NewStaff.resources
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Register.resources
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.SearchMembers.resources
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.ViewEquipment.resources
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.cache
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.exe.manifest
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.application
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.exe
+C:\Users\Punj\Documents\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.pdb
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\Gym.mdf
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\Gym_log.ldf
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.exe.config
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.exe.manifest
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.application
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.exe
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\bin\Debug\GymManagementSystem.pdb
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.AboutBox.resources
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.DeleteMembers.resources
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Equipment.resources
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Login.resources
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Home.resources
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.NewMember.resources
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.NewStaff.resources
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Properties.Resources.resources
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.Register.resources
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.SearchMembers.resources
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.ViewEquipment.resources
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.csproj.GenerateResource.cache
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.exe.manifest
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.application
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.exe
+D:\NET Projects\C#.NET\GymManagementSystem\GMS\obj\x86\Debug\GymManagementSystem.pdb

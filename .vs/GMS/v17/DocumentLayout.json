@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NET Projects\\C#.NET\\GymManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25EE1E74-7866-4A21-B17A-AFA03EE4C0BE}|GMS\\GymManagementSystem.csproj|d:\\net projects\\c#.net\\gymmanagementsystem\\gms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25EE1E74-7866-4A21-B17A-AFA03EE4C0BE}|GMS\\GymManagementSystem.csproj|solutionrelative:gms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25EE1E74-7866-4A21-B17A-AFA03EE4C0BE}|GMS\\GymManagementSystem.csproj|d:\\net projects\\c#.net\\gymmanagementsystem\\gms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25EE1E74-7866-4A21-B17A-AFA03EE4C0BE}|GMS\\GymManagementSystem.csproj|solutionrelative:gms\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\NET Projects\\C#.NET\\GymManagementSystem\\GMS\\Home.cs",
+              "RelativeDocumentMoniker": "GMS\\Home.cs",
+              "ToolTip": "D:\\NET Projects\\C#.NET\\GymManagementSystem\\GMS\\Home.cs",
+              "RelativeToolTip": "GMS\\Home.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:00:52.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\NET Projects\\C#.NET\\GymManagementSystem\\GMS\\Home.cs",
+              "RelativeDocumentMoniker": "GMS\\Home.cs",
+              "ToolTip": "D:\\NET Projects\\C#.NET\\GymManagementSystem\\GMS\\Home.cs [Design]",
+              "RelativeToolTip": "GMS\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T06:00:44.799Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
